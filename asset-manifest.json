@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tfood1/static/css/main.8e45bef8.css",
+    "main.js": "/tfood1/static/js/main.833e139e.js",
+    "static/js/787.02d8731b.chunk.js": "/tfood1/static/js/787.02d8731b.chunk.js",
+    "static/media/birthday__bg.png": "/tfood1/static/media/birthday__bg.95392e7db8b5566de15f.png",
+    "static/media/Img__hero.png": "/tfood1/static/media/Img__hero.fa19fed6fd6e4f6c9142.png",
+    "static/media/itemProduct.png": "/tfood1/static/media/itemProduct.b2416ba9cca3062a938e.png",
+    "index.html": "/tfood1/index.html",
+    "main.8e45bef8.css.map": "/tfood1/static/css/main.8e45bef8.css.map",
+    "main.833e139e.js.map": "/tfood1/static/js/main.833e139e.js.map",
+    "787.02d8731b.chunk.js.map": "/tfood1/static/js/787.02d8731b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e45bef8.css",
+    "static/js/main.833e139e.js"
+  ]
+}
